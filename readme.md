@@ -1,5 +1,5 @@
 ## Demo Video
 
-Check out the demo video below to see our project in action:
+Here’s a preview of the video in GIF format:
 
-[Watch the video](./assets/animation.gif)
+![Demo GIF](./assets/animation.gif)
